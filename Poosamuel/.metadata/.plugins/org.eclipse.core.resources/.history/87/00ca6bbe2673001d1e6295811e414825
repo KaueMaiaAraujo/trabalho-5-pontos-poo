@@ -1,0 +1,14 @@
+package pessoafisica0;
+
+public class Pessoafisica extends Pessoa{
+	
+
+	
+	
+	protected String cpf;
+	protected String sobrenome;
+	
+}
+ 
+ 
+ 

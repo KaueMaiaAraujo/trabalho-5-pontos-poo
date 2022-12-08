@@ -1,0 +1,29 @@
+package pessoa;
+
+public class Pessoafisica extends Pessoa {
+	
+
+	protected String Cpf;
+	protected String Sobrenome;
+	
+	public Pessoafisica (String Cpf,String Sobrenome) {
+		this.Cpf=Cpf;
+		this.Sobrenome=Sobrenome;	
+	}
+	 public String getCpf() {
+	  return Cpf;
+	 }
+	 public void setCpf(String Cpf) {
+			this.Cpf = Cpf;
+		}
+	 public String getSobrenome() {
+			return Sobrenome;
+ }
+	 public void setSobrenome(String sobrenome) {
+			this.Sobrenome = sobrenome;
+		}
+	 public String toString() {
+			
+			
+ }
+} 
