@@ -1,0 +1,16 @@
+1*) Considerando os conceitos básicos de orientação a objetos, explique o significado dos conceitos abaixo
+Encapsulamento: em resumo é uma forma de separar, organizar, isolar o código em partes, para que o mesmo seja acessível, podendo ser modificado, implementado e achado de uma forma mais “fácil”.  
+
+Herança: É quando é possível a partir de uma classe existente criar outras classes (sub classes), possibilitando que seja herdado alguns atributos da classe previamente criada, isso pode ser feito com o “extends” e a classe que o ela vai herdar
+
+Polimorfismo: Pode se citar polimorfismo em uma situação em que um objeto pode se comportar de maneira diferentes ao receber uma mensagem, o mesmo significa; muitas formas, especificando uma situação ou problema com muitas formas de como resolve-la. 
+
+Atributos e Métodos: Atributos são especificamente funções e ações que um objeto pode realizar, já os métodos são as propriedades de um objeto, podendo ser chamadas também como características de um objeto.
+
+Atributos e Métodos estáticos: Atributo estáticos é geralmente utilizado para constantes, é um estado que vive na classe permitindo que sempre ao criar um novo objeto dessa classe, possuem o mesmo valor para o atributo.
+
+2*) Diferencie os mecanismos de sobrecarga e sobrescrita, demonstrando cenário de uso de cada um desses.
+
+Sobrecarga: Cria variações de um método, ou seja, a criação de dois ou mais métodos com nomes totalmente iguais em uma classe
+
+Sobrescrita: Cria um novo método na classe filha contendo a mesma assinatura e mesmo tipo de retorno de metodo
