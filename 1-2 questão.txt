@@ -1,7 +1,7 @@
 1*) Considerando os conceitos básicos de orientação a objetos, explique o significado dos conceitos abaixo
 Encapsulamento: em resumo é uma forma de separar o código em partes, o mais isolada possivel para que o mesmo seja acessível, podendo ser modificado, implementado,  serve para controlar o acesso aos atributos e métodos de uma classe.
 
-Herança: É quando é possível a partir de uma classe existente criar outras classes (sub classes), possibilitando que seja herdado alguns atributos da classe previamente criada, isso pode ser feito com o “extends” e a classe que o ela vai herdar
+Herança: É quando é possível a partir de uma classe existente criar outras classes (sub classes), possibilitando que seja herdado tudo da classe previamente criada, isso pode ser feito com o “extends” e a classe que o ela vai herdar
 
 Polimorfismo: Pode se citar polimorfismo em uma situação em que um objeto pode se comportar de maneira diferentes ao receber uma mensagem, o mesmo significa; muitas formas, especificando uma situação ou problema com muitas formas de como resolve-la. 
 
